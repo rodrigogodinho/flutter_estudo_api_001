@@ -1,0 +1,24 @@
+{
+  "result": [
+    { 
+      "codigo": "CLI001", 
+      "tienda": "01", 
+      "nombre": 
+      "Cliente 001", 
+      "pedidos": [
+        { "id": "000101", "emision": "20210204", "total": 145.00 },
+        { "id": "000102", "emision": "20210204", "total": 185.00 }
+      ]
+    },
+    { 
+      "codigo": "CLI002", 
+      "tienda": "01", 
+      "nombre": 
+      "Cliente 001", 
+      "pedidos": [
+        { "id": "000201", "emision": "20210204", "total": 245.00 },
+        { "id": "000202", "emision": "20210204", "total": 285.00 }
+      ]
+    }
+  ]
+}
