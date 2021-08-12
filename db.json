@@ -1,16 +1,14 @@
 {
-  "posts": [
+  "bienes": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "id": "CAMJAC190",
+      "descripcion": "CAMIÓN JAC 190 SIM 2557",
+      "matricula": "SIM 2557"
     },
     {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "id": "CAMJAC191",
+      "descripcion": "CAMIÓN JAC 191 SIM 1817",
+      "matricula": "SIM 1817"
     }
   ],
   "comments": [
